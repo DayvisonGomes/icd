@@ -1,6 +1,6 @@
 <h1> Introdução à Ciência de Dados </h1>
 
-<h4> Exercícios da disciplina de ICD </h4>.
+<h4> Exercícios da disciplina de ICD. </h4>
 
 <ul>
   <li> <a href='https://github.com/DayvisonGomes/icd/blob/master/EXERCICIO%20LISTA%20PYTHON%20ATUALIZADO.ipynb' > Exercício 1 </a>   </li>
