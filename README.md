@@ -1,2 +1,2 @@
-# icd
-Exercícios da disciplina de ICD
+# Exercícios de icd
+
