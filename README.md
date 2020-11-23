@@ -9,4 +9,5 @@
   <li> <a href='https://github.com/DayvisonGomes/icd/blob/master/Exercício_Pandas_DayvisonGomes.ipynb'> Exercício 3-2 </li>
   <li> <a href='https://github.com/DayvisonGomes/icd/blob/master/Exercício_Medidas_de_Centralidade_e_Dispersão_DayvisonGomes.ipynb'> Exercício 4 </a> </li>
   <li> <a href='https://github.com/DayvisonGomes/icd/blob/master/Exercício%20-%20Correlação_DayvisonGomes.ipynb'> Exercício 5 </a></li>
+  <li> <a href='https://github.com/DayvisonGomes/icd/blob/master/Exercício%20-%20Regressão%20Linear_DayvisonGomes.ipynb'> Exercício 6 </a></li>
 </ul>
